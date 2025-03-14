@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title="Airbnb Analysis", layout="wide")
+st.set_page_config(page_title="Airbnb Analysis of Housing", layout="wide")
 
-st.title("🏡 Airbnb Analysis")
+st.title("Airbnb Analysis of Housing")
 st.markdown("Analyzing *Airbnb* data in :blue[Madrid]")
 
 
